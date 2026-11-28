@@ -10,7 +10,7 @@ Ridezy is a full-stack, real-time university carpooling web application designed
 | Name | Enrollment Number | GitHub |
 | :--- | :--- | :--- |
 | Muhammad Hamza Manzoor | 09-131242-055 | [@hamzamanzoor0055](https://github.com/hamzamanzoor0055) |
-| Abdul Momin | 09-131242-003 | *(--)* |
+| Abdul Momin | 09-131242-003 | *([@victor6273737](https://github.com/victor6273737/))* |
 
 ## Tech Stack
 * **Frontend:** React (Vite), Tailwind CSS, Leaflet.js (OpenStreetMap)
